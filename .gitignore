@@ -1,0 +1,32 @@
+# Build and binary files
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# C++ debugging files
+*.dSYM/
+*.stackdump
+core.*
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and backups
+*.log
+*.bak
+*.swp
+
+# CMake (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
